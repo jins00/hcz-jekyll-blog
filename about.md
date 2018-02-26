@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 공지사항
+title: News
 permalink: /about/
 ---
 
