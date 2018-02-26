@@ -3,12 +3,12 @@
     "text": "Home",
     "url": "/",
     "icon": "fa-home",
-    "layout": "fa-comments"
+    "layout": "post"
   },
   {
     "text": "공지사항",
     "url": "/about/",
-    "icon": "post"
+    "icon": "fa-comments"
   },
   {
     "text": "사례공유",
