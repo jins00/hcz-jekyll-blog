@@ -6,17 +6,17 @@
     "layout": "post"
   },
   {
-    "text": "About",
+    "text": "공지사항",
     "url": "/about/",
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
+    "text": "사례공유",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
+    "text": "자료공유",
     "url": "/#",
     "icon": "fa-graduation-cap",
   },
