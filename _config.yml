@@ -1,8 +1,8 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: IRIS Community
+description: IRIS Internal Site
+author: SH Jin
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+github: https://github.com/jins00.github.io
 about: Freelance developer
 
 baseurl: ""
@@ -10,7 +10,7 @@ url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
+disqus_shortname: IRIS
 google_analytics: UA-72862926-1
 
 share:
